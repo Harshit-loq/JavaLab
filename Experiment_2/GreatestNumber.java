@@ -27,7 +27,7 @@ public class GreatestNumber {
                 greatest = num3;
             }
         }
-
+        
         System.out.println("The greatest number is: " + greatest);
     }
 }
